@@ -1,0 +1,7 @@
+class Pavani
+{
+pubic static void main(String args[])
+{
+System.out.println("welocome here");
+}
+}
